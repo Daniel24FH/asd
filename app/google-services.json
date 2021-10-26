@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "928921436482",
+    "project_id": "librocuentassna",
+    "storage_bucket": "librocuentassna.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928921436482:android:cd17ff3bd3967af8cc48db",
+        "android_client_info": {
+          "package_name": "com.dan.librocuentaskt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928921436482-qprj720qhv85619erlpbvfil3iqhf64d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnn627ZfoQewVFY8TLhu-zLlyQncxrxto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928921436482-qprj720qhv85619erlpbvfil3iqhf64d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
