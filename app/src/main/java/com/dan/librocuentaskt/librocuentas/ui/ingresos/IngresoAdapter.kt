@@ -142,7 +142,9 @@ class IngresoAdapter(ingresosList: ArrayList<Ingreso>) : RecyclerView.Adapter<In
         }
          override fun onClick(v: View) {
             if (v.id == R.id.cv_ingresos) {
-                newIngresoAdapterListener.onItemSelected(model)
+              //  newIngresoAdapterListener.onItemSelected(model)
+
+
             }
         }
 

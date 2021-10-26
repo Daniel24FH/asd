@@ -112,9 +112,9 @@ class IngresosListaActivity : AppCompatActivity() {
         }
     }
 
-    fun IngresoAdapter.onItemSelected(ingresoModel: Ingreso?) {
+  /*  fun IngresoAdapter.onItemSelected(ingresoModel: Ingreso?) {
         val intent = Intent(this, DetalleIngresoActivity::class.java)
         startActivity(intent)
     }
-
+*/
 }
